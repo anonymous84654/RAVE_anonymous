@@ -97,4 +97,6 @@ SOON AVAILABLE
 
 ## Artistic uses
 
-Since its release, RAVE has been used by several artists all around the world to create original pieces, and we report some of their creations.
+**WARNING - POTENTIAL BREACH OF ANONYMITY**
+
+Since its release, RAVE has been used by several artists all around the world to create original pieces, and [we report some of their creations](community.md).
